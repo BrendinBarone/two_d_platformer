@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/two_d_platfomer.unity
+  isLoaded: 1
+  isActive: 1
